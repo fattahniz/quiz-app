@@ -50,7 +50,7 @@ simple-quiz-app/
 ✍️ Author
 👤 Abdulfattah Nizamani
 [🔗 LinkedIn](https://linkedin.com/in/abdulfattahnizamani)
-[📫 Email](abdulfattahnizamani266@gmail.com)
+📫 Email: abdulfattahnizamani266@gmail.com
 
 
 #javascript #frontend #quiz-app #webdevelopment #internship #day9 #30daysofcode
@@ -65,7 +65,7 @@ Edit
 ---
 
 ### ✅ How to Use It
-1. Replace the **live link** (`https://your-vercel-project-url`) with your Vercel deployment link.
+1. Replace the **live link** (`https://quiz-app-gamma-gray.vercel.app/`) with your Vercel deployment link.
 2. Replace `your-username`, email, and LinkedIn with your actual info.
 3. You can also create a `LICENSE` file if publishing open-source (MIT license is common).
 
