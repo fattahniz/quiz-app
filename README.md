@@ -49,8 +49,6 @@ simple-quiz-app/
 
 ✍️ Author
 👤 Abdulfattah Nizamani
-[🔗 LinkedIn](https://linkedin.com/in/abdulfattahnizamani)
-📫 Email: abdulfattahnizamani266@gmail.com
 
 
 #javascript #frontend #quiz-app #webdevelopment #internship #day9 #30daysofcode
