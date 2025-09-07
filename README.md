@@ -35,7 +35,7 @@ This is a beginner-friendly **JavaScript Quiz App** built with **HTML, CSS, and 
 ```bash
 git clone https://github.com/abdulfattahnizamani/simple-quiz-app.git
 cd simple-quiz-app
-
+```
 2. Open in Browser:
 You can simply open index.html in your browser.
 
@@ -48,7 +48,9 @@ simple-quiz-app/
 
 
 ✍️ Author
-👤 Abdulfattah Nizamani
+**👤 Abdulfattah Nizamani**
+
+**[LinkedIn](https://linkedin.com/in/fattahniz)**
 
 
 #javascript #frontend #quiz-app #webdevelopment #internship #day9 #30daysofcode
