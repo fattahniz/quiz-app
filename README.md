@@ -1,4 +1,4 @@
-# 🎯 Simple Quiz App
+# 🎯 Quiz App
 
 This is a beginner-friendly **JavaScript Quiz App** built with **HTML, CSS, and vanilla JavaScript**. It displays one question at a time, allows the user to select an answer, highlights correct/incorrect responses, and shows the score at the end.
 
