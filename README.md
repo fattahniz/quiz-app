@@ -16,6 +16,8 @@ This is a beginner-friendly **JavaScript Quiz App** built with **HTML, CSS, and 
 ## 🛠️ Tech Stack
 **Frontend:** HTML, CSS, JavaScript (ES6+)
 
+**Deployment:** Vercel
+
 ## Installation
 1. Clone the repo:
 ```bash
