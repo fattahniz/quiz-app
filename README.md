@@ -2,14 +2,6 @@
 
 This is a beginner-friendly **JavaScript Quiz App** built with **HTML, CSS, and vanilla JavaScript**. It displays one question at a time, allows the user to select an answer, highlights correct/incorrect responses, and shows the score at the end.
 
----
-
-## 📸 Live Demo
-
-🔗 [View Live on Vercel](https://quiz-app-gamma-gray.vercel.app/)  
-
-
-
 ## 📦 Features
 
 - Single-page quiz interface
@@ -22,51 +14,33 @@ This is a beginner-friendly **JavaScript Quiz App** built with **HTML, CSS, and 
 ---
 
 ## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript (ES6+)
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repo:
+## Installation
+1. Clone the repo:
 ```bash
-git clone https://github.com/abdulfattahnizamani/simple-quiz-app.git
-cd simple-quiz-app
+   git clone https://github.com/fattahniz/simple-quiz-app.git
+cd quiz-app
 ```
-2. Open in Browser:
-You can simply open index.html in your browser.
+2. Run locally
+Open index.html directly in your browser or use a Live Server extension in VS Code.
 
-📁 Project Structure
+## 📂 Project Structure
+```css
+project/
+│── index.html
+│── style.css
+│── main.js
+│── images/
+│── README.md
+```
+## 🤝 Contributing
+Fork the repo
 
-simple-quiz-app/
-├── index.html        # Main HTML page
-├── style.css         # All styling
-└── script.js         # Quiz logic
+1. Create a new branch (feature/my-feature)
+2. Commit changes
+3. Push branch and create a Pull Request
 
-
-✍️ Author
-**👤 Abdulfattah Nizamani**
-
-**[LinkedIn](https://linkedin.com/in/fattahniz)**
-
-
-#javascript #frontend #quiz-app #webdevelopment #internship #day9 #30daysofcode
-
-📃 License
-This project is open source and available under the MIT License.
-
-markdown
-Copy
-Edit
-
----
-
-### ✅ How to Use It
-1. Replace the **live link** (`https://quiz-app-gamma-gray.vercel.app/`) with your Vercel deployment link.
-2. Replace `your-username`, email, and LinkedIn with your actual info.
-3. You can also create a `LICENSE` file if publishing open-source (MIT license is common).
-
-Would you like a version with **screenshots**, **GIF demo**, or a **multi-answer upgrade** in the future?
+## 📄 License
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE
+file for details.
